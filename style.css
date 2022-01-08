@@ -1,6 +1,7 @@
 body{
     font-family: 'Inter', sans-serif;
     border: 0;
+    margin: 0;
 }
 h1{
     font-size: 40px;
@@ -57,4 +58,16 @@ h3{
 }
 .photo img {
     width: 50%;
-}       
+} 
+.bottom-space{
+    margin-bottom: 100px;
+}
+.leading{
+    margin-right: 50px;
+}
+.footer{
+    background-color:black;
+}
+.white{
+    color: white;
+}
