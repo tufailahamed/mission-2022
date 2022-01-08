@@ -1,0 +1,11 @@
+body{
+    font-family: 'Inter', sans-serif;
+    border: 0;
+}
+h1{
+    font-size: 40px;
+    line-height: 16px;
+}
+.coral-color{
+    color:coral;
+}
