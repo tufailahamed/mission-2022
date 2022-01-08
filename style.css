@@ -9,3 +9,52 @@ h1{
 .coral-color{
     color:coral;
 }
+#stay{
+    border-left: 4px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+    margin-top: 60px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 60%;
+    height: 500px;
+    margin-left: 70px;
+    padding-left: 100px;
+}
+.explore{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 136, 0), tomato);
+    padding: 7px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+h3{
+    font-weight: 700;
+}
+#my-mission{
+    text-align: center;
+}
+.flexible{
+    display: flex;
+    width: 100%;   
+}
+.purpose{
+    box-shadow: 10px 10px 40px orange;
+    width: 200%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    padding: 20px;
+    border-radius: 10px;
+}
+.photo img {
+    width: 50%;
+}       
